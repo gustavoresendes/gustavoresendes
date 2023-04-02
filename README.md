@@ -1,6 +1,6 @@
 # 👋 Gustavo Penna
 
-Apaixonado por tecnologia desde criança, atualmente busco aprender e melhorar meus conhecimentos todos dias, sempre disposto a evoluir cada vez mais!
+Apaixonado por tecnologia desde criança, busco aprender e melhorar meus conhecimentos todos dias, sempre disposto a evoluir cada vez mais!
 
 - 💭 Aprendendo SQL e Next.js
 - ❗ Atualmente focado em React.js e TypeScript.
