@@ -17,3 +17,6 @@ Apaixonado por tecnologia desde criança, busco aprender e melhorar meus conheci
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+[!Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+[!Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
