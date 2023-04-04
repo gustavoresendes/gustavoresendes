@@ -1,4 +1,4 @@
-# 👋 Gustavo Penna
+# Hi, i'm Gustavo Penna 👋
 
 Apaixonado por tecnologia desde criança, busco aprender e melhorar meus conhecimentos todos dias, sempre disposto a evoluir cada vez mais!
 
